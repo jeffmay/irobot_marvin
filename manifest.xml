@@ -1,0 +1,15 @@
+<package>
+  <description brief="irobot_marvin">
+
+     irobot_marvin
+
+  </description>
+  <author>Jeff May</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/irobot_marvin</url>
+  <depend package="irobot_create_2_1"/>
+
+</package>
+
+
