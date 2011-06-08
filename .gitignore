@@ -1,0 +1,21 @@
+# Glob Matches
+##############
+
+*.pyc
+*.swp
+build/*
+CMakeFiles/*
+msg_gen/*
+src/irobot_marvin/*
+
+# Single Files
+##############
+
+cmake_install.cmake
+CMakeCache.txt
+tags
+
+# Regular Expressions
+#####################
+
+/.*~$
